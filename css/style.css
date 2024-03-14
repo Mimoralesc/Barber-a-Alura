@@ -1,0 +1,51 @@
+body{
+    
+}
+
+.titprin{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color:red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+.titcentra{
+    text-align: center;
+}
+
+.diferenciales{
+    background-color: #fff;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 20%;
+    padding: 30px;
+}
+.imgdif{
+    width: 50%;
+}
